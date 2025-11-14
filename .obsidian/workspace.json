@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "1aa82600c5d1dcac",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a73ba0bbd93f0fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c9cf258e2c61811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Учеба/🧑‍💻 QA-тестирование/10.1 Практические задачи на StreamAPI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10.1 Практические задачи на StreamAPI"
+            }
+          },
+          {
+            "id": "b86d52861d68761c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Учеба/🧑‍💻 QA-тестирование/10. Stream API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. Stream API"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91ed206e968b05fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b36b74ccaa9a0d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af276edcce659f86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e4a6b5dff3c580ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b5132e659e0b6058",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.5024719238281,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9620e57776ec1cb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "838af7b41e63cb28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18f9b21a8c6048a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TEST.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TEST"
+            }
+          },
+          {
+            "id": "654b05c63c22a3c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TEST.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TEST"
+            }
+          },
+          {
+            "id": "f442709da2a0c4ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0c2f7855d27fbccd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TEST.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TEST"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4c9cf258e2c61811",
+  "lastOpenFiles": [
+    "📚 Учеба/🧑‍💻 QA-тестирование/10. Stream API.md",
+    "📚 Учеба/🧑‍💻 QA-тестирование/10.1 Практические задачи на StreamAPI.md",
+    "📚 Учеба/🧑‍💻 QA-тестирование/03. Семь принципов тестирования (ISTQB Foundation Level).md",
+    "📚 Учеба/🧑‍💻 QA-тестирование/09. Внутреннее устройство коллекций.md",
+    "📚 Учеба/🧑‍💻 QA-тестирование/08. Java Collection Framework.md",
+    "📚 Учеба/🧑‍💻 QA-тестирование/07. Повторение основ Java.md",
+    "📚 Учеба/🧑‍💻 QA-тестирование/06. Инструменты автотестирования.md",
+    "📚 Учеба/🧑‍💻 QA-тестирование/05. Термины.md",
+    "📚 Учеба/🧑‍💻 QA-тестирование/04. Жизненный цикл бага.md",
+    "📚 Учеба/🧑‍💻 QA-тестирование/02. Виды тестирования.md",
+    "📚 Учеба/🧑‍💻 QA-тестирование/01. Тестирование.md",
+    "Untitled.md",
+    "📚 Учеба/🍏 IOS-DEVELOPER/10. Протоколы.md",
+    "📚 Учеба/🧑‍💻 QA-тестирование",
+    "📚 Учеба/🍏 IOS-DEVELOPER/06. Структуры.md",
+    "📚 Учеба/🍏 IOS-DEVELOPER/09. Расширения.md",
+    "📚 Учеба/🍏 IOS-DEVELOPER/07.  Опционалы.md",
+    "📚 Учеба/🍏 IOS-DEVELOPER/08. Классы.md",
+    "📚 Учеба/🍏 IOS-DEVELOPER/❓ Вопросы.md",
+    "().md",
+    "Чем отлич[[06. Структуры.md",
+    "06..md",
+    "Чем отличаются модификаторы доступа public и internal?.md",
+    "С явными геттерами и сеттерами. `get{}`, `set{}`.md",
+    "TEST.md",
+    "Untitled.base",
+    "Welcome.md",
+    "note.md",
+    "📚 Учеба/🍏 IOS-DEVELOPER",
+    "📚 Учеба",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "1/Untitled",
+    "1"
+  ]
+}
