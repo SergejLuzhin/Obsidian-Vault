@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Учеба/🍒 Bell-Integrator/JavaDoc.md",
+                "file": "📚 Учеба/🍒 Bell-Integrator/01. Тестирование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaDoc"
+              "title": "01. Тестирование"
             }
           },
           {
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5024719238281
+    "width": 260.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "9620e57776ec1cb2",
@@ -199,6 +200,8 @@
   },
   "active": "4c9cf258e2c61811",
   "lastOpenFiles": [
+    "📚 Учеба/🖥️ Java Core вопросы/03. Java Core.md",
+    "📚 Учеба/🍒 Bell-Integrator/01. Тестирование.md",
     "📚 Учеба/🖥️ Java Core вопросы/01. ООП.md",
     "📚 Учеба/🍒 Bell-Integrator/JavaDoc.md",
     "📚 Учеба/🧑‍💻 QA-тестирование/07. Повторение основ Java.md",
@@ -225,8 +228,6 @@
     "📚 Учеба/🍏 IOS-DEVELOPER/❓ Вопросы.md",
     "().md",
     "Чем отлич[[06. Структуры.md",
-    "06..md",
-    "Чем отличаются модификаторы доступа public и internal?.md",
     "Untitled.base",
     "📚 Учеба/🍏 IOS-DEVELOPER",
     "📚 Учеба",
